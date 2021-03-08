@@ -11,4 +11,5 @@
 - Rafael Corchuelo (corchu@us.es)
 - Marcos Rodriguez (marrodoso@alum.us.es)
 - Javier Grosso (javgrogom@alum.us.es)
+- Luis Miguel Bellido Zancarron (luibelzan@alum.us.es)
 
